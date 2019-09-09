@@ -1,0 +1,13 @@
+a=100
+b=bin(a)
+print(b)
+o=oct(a)
+print(o)
+h=hex(a)
+print(h)
+a1=int(b,2)
+a2=int(o,8)
+print(a1)
+print(a2)
+a3=int(h,16)
+print(a3)
